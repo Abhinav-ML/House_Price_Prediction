@@ -1,7 +1,7 @@
 # House_Price_Prediction
 
 I have susseccfully deployed this project on heroku cloud. To use this model please visit the below link\
-url : <https://app-house-price-prediction.herokuapp.com/predict>
+url : <https://app-house-price-prediction.herokuapp.com>
 
 ### Software and Tools Requirements:
 1. [GitHub Account](https://github.com/)
