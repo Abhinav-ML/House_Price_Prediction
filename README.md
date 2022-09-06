@@ -8,11 +8,18 @@
 Link :(https://www.python.org/downloads/)
 
 ### Create new virtual environment :
-Note : I am using Powershell
-step1: pip install virtualenv #if not installed
-step2: virtualenv <virtual_environment's name>
-step3: got to directory and activate it egs .\Abhinav\Scripts\activate
-step4: To deactivate virtual environment use command : deactivate
+***Note : I am using Powershell*** \
+step1: pip install virtualenv #if not installed\
+step2: virtualenv <virtual_environment's name>\
+step3: got to directory and activate it egs .<\Abhinav\Scripts\activate> \
+step4: To deactivate virtual environment use command : deactivate\
 
-### Create a reqiurement.txt file
+#### Create a reqiurement.txt file:
 pip freeze > requirement.txt
+
+### intalling all libraries mentioned on requirement.txt file
+pip install -r .\requirement.txt
+
+
+
+
